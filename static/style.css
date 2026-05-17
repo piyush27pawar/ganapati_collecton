@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1{
+    color: orangered;
+}
+
+h2,h3{
+    color: blue;
+}
+
+input{
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
+
+table{
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 10px;
+    border: 1px solid black;
+}
